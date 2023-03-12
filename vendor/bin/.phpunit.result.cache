@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CalculateTest::testGetKilled":3,"CalculateTest::testGetAverage":3},"times":{"CalculateTest::testGetKilled":0.006,"CalculateTest::testGetAverage":0.001}}
